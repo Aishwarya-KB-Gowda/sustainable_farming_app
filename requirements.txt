@@ -1,0 +1,8 @@
+phidata
+groq
+google-generativeai
+python-dotenv
+fastapi
+uvicorn
+duckduckgo-search
+packaging
