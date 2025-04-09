@@ -129,6 +129,7 @@ requests-oauthlib
 rich
 rpds-py
 rsa
+scikit-learn
 shellingham
 six
 smmap
